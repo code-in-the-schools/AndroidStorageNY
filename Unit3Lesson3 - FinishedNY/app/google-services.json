@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794048508705",
+    "project_id": "fir-shawn",
+    "storage_bucket": "fir-shawn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794048508705:android:4b54cf1f76f8ef7e4ac460",
+        "android_client_info": {
+          "package_name": "org.codeintheschools.unit3lesson3a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794048508705-5b8c4tnnf8pv5idc2h5h2are4udd8533.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzkfJGjG9mRBvv0F7_XQSpu68uBB5pi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794048508705-5b8c4tnnf8pv5idc2h5h2are4udd8533.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
